@@ -12,11 +12,18 @@ At Brookhaven National Laboratory, my focus is on pushing the boundaries of mate
 
 With my master's background in materials and chemical engineering, I am committed to advancing smart, energy-efficient materials. My contributions in electrochemistry are not just academic pursuits; they are steps toward a more sustainable future, reflecting my dedication to real-world impact.
 
-## Skills
-- **Programming**: **Python** (Pandas, NumPy, Matplotlib, Seaborn, PyTorch) , **R** (Tidyverse, ggplot), **SQL**, **Stata**
+## Characterizations
+- **Microscopy**: *Operando* Transmission X-ray Mircoscopy (TXM), Ptychography (Ptycho), X-ray Fluorescence (XRF), Coherent Diffraction Imaging (CDI), SEM
+- **Spectroscopy**: X-ray Absorption Fine Structure (XAFS) - X-ray Absorption Near Edge Structure (XANES), Raman Spectroscopy, XRD
+
+## Characterizations
 - **Data Tools**: Excel, Tableau, Git, LaTeX, Jupyter Notebooks
 - **Data Science Methods**: A/B Testing & Experimentation, Statistics, Data Cleaning & Wrangling, Machine Learning (eg., PCA, Decision Trees), Deep Learning, Natural Language Processing (eg., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research
 
+## Data Analysis
+- **Modeling**: AutoCAD, Inventor, KLayout, Python, Matlab
+- **Image processing**: ImageJ, Python
+- **Programming**: Python, R, Java, Matlab
 
 ## Education
 - **Currently Ph.D. student in Materials Science and Engineering**, [Stony Brook University](https://www.stonybrook.edu/)
