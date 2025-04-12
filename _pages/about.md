@@ -13,7 +13,7 @@ At Brookhaven National Laboratory, my focus is on pushing the boundaries of mate
 With my master's background in materials and chemical engineering, I am committed to advancing smart, energy-efficient materials. My contributions in electrochemistry are not just academic pursuits; they are steps toward a more sustainable future, reflecting my dedication to real-world impact.
 
 ## Characterizations
-- **Microscopy**: *Operando* Transmission X-ray Mircoscopy (**TXM**), Ptychography (**Ptycho**), X-ray Fluorescence (**XRF**), Coherent Diffraction Imaging (**CDI**), **SEM**， Optical Microscopy (**OM**)
+- **Microscopy**: *Operando* Transmission X-ray Mircoscopy (**TXM**), Ptychography (**Ptycho**), X-ray Fluorescence (**XRF**), Coherent Diffraction Imaging (**CDI**), **SEM**, Optical Microscopy (**OM**)
 - **Spectroscopy**: X-ray Absorption Fine Structure (**XAFS**) - X-ray Absorption Near Edge Structure (**XANES**), **Raman Spectroscopy**, **XRD**
 
 ## Experiments
