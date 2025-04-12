@@ -13,12 +13,14 @@ At Brookhaven National Laboratory, my focus is on pushing the boundaries of mate
 With my master's background in materials and chemical engineering, I am committed to advancing smart, energy-efficient materials. My contributions in electrochemistry are not just academic pursuits; they are steps toward a more sustainable future, reflecting my dedication to real-world impact.
 
 ## Characterizations
-- **Microscopy**: *Operando* Transmission X-ray Mircoscopy (**TXM**), Ptychography (**Ptycho**), X-ray Fluorescence (**XRF**), Coherent Diffraction Imaging (**CDI**), **SEM**
+- **Microscopy**: *Operando* Transmission X-ray Mircoscopy (**TXM**), Ptychography (**Ptycho**), X-ray Fluorescence (**XRF**), Coherent Diffraction Imaging (**CDI**), **SEM**， Optical Microscopy (**OM**)
 - **Spectroscopy**: X-ray Absorption Fine Structure (**XAFS**) - X-ray Absorption Near Edge Structure (**XANES**), **Raman Spectroscopy**, **XRD**
 
-## Characterizations
-- **Data Tools**: Excel, Tableau, Git, LaTeX, Jupyter Notebooks
-- **Data Science Methods**: A/B Testing & Experimentation, Statistics, Data Cleaning & Wrangling, Machine Learning (eg., PCA, Decision Trees), Deep Learning, Natural Language Processing (eg., Sentiment Analysis, Topic Modeling (LDA), Statistical Inference, Survey Research
+## Experiments
+- **Synthesis**: Chemical Vapor Deposition (CVD) - Vanadium dioxide micro/nanobeam (VO2 MW/NWs) and two-dimensional Transition metal dichalcogenide (2D-TMDs) growth, Hydrothermal method
+- **Nanofrication**: Probe station, Sputter coating, Spin coating, E-beam lithography, Lift-off process
+- **Electrochemistry**: Potenstiostat - Galvanostatic Intermittent Titration Technique (GITT), Electrochemical Impedance Spectroscopy (EIS)
+- **Undefined**: 3D printing, Lost-wax casting，Suction filtration
 
 ## Data Analysis
 - **Modeling**: AutoCAD, Inventor, KLayout, Python, Matlab
@@ -26,6 +28,6 @@ With my master's background in materials and chemical engineering, I am committe
 - **Programming**: Python, R, Java, Matlab
 
 ## Education
-- **Currently Ph.D. student in Materials Science and Engineering**, [Stony Brook University](https://www.stonybrook.edu/)
-- **2023 B.E. in Materials Science and Engineering**, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) 
-- **2021 B.E. in Materials Science and Engineering**, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) 
+- Currently Ph.D. student in Materials Science and Engineering, [Stony Brook University](https://www.stonybrook.edu/)
+- 2023 B.E. in Materials Science and Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) 
+- 2021 B.E. in Materials Science and Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) 
