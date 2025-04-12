@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Julie Liu"
+title                    : "Yichen Gan"
 title_separator          : "-"
-name                     : &name "Julie Liu"
-description              : &description "Master's student in Applied Statistics at NYU"
+name                     : &name "Yichen Gan"
+description              : &description "Ph.D. student, Department of Materials Science and Chemical Engineering, Stony Brook University"
 url                      : https://julieduyiliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "julieduyiliu/julieduyiliu.github.io"
+repository               : "yichengan/yichengan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
