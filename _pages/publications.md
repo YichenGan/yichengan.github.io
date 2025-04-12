@@ -14,4 +14,4 @@ author_profile: true
 
 - Shi, R., Kong, D., Shen, N., **Gan, Y.**, Zhao, Y., Wang, Z., Wang, W., Wang, J. (2020). *Low-temperature wafer-scale fabrication of vertical VO2 nanowire arrays.* **Applied Physics Letters**, 117(8).
 
-- Chen, P., Shi, R., Shen, N., Zhang, Z., Liang, Y., Li, T., Wang, J., Kong, D., **Gan, Y.** (2020). *Multistimuli‐Responsive Insect‐Scale Soft Robotics Based on Anisotropic Super‐Aligned VO2 Nanowire/Carbon Nanotube Bimorph Actuators.* **Advanced Intelligent Systems**, 2(8), 2000051.
+- Chen, P., Shi, R., Shen, N., Zhang, Z., Liang, Y., Li, T., Wang, J., Kong, D., **Gan, Y.**, Amini, A., Wang, N., Cheng, C. (2020). *Multistimuli‐Responsive Insect‐Scale Soft Robotics Based on Anisotropic Super‐Aligned VO2 Nanowire/Carbon Nanotube Bimorph Actuators.* **Advanced Intelligent Systems**, 2(8), 2000051.
