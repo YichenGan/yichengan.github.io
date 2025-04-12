@@ -12,7 +12,7 @@ title                    : "Yichen Gan"
 title_separator          : "-"
 name                     : &name "Yichen Gan"
 description              : &description "Ph.D. student, Department of Materials Science and Chemical Engineering, Stony Brook University"
-url                      : https://julieduyiliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yichengan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yichengan/yichengan.github.io"
 
