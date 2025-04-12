@@ -7,16 +7,5 @@
 main:
 
 
-  - title: "Projects"
-    url: /projects/
-        
-
-  - title: "Work Experience"
-    url: /workexperience/
-    
-
   - title: "Publications"
     url: /publications/
-
-  - title: "Blog"  
-    url: /year-archive/
