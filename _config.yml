@@ -21,7 +21,7 @@ repository               : "yichengan/yichengan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yichen Gan"
   pronouns         : "He/Him"  
   bio              : "Ph.D. student in Materials Science and Engineering"
