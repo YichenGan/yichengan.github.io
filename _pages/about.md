@@ -18,7 +18,7 @@ With my master's background in materials and chemical engineering, I am committe
 
 ## Experiments
 - **Synthesis**: Chemical Vapor Deposition (CVD) - Vanadium dioxide micro/nanobeam (VO2 MW/NWs) and two-dimensional Transition metal dichalcogenide (2D-TMDs) growth, Hydrothermal method
-- **Nanofrication**: Probe station, Sputter coating, Spin coating, E-beam lithography, Lift-off process
+- **Nanofrication**: Probe station, Sputter coating, Spin coating, E-beam lithography (EBL), Lift-off process
 - **Electrochemistry**: Potenstiostat - Galvanostatic Intermittent Titration Technique (GITT), Electrochemical Impedance Spectroscopy (EIS)
 - **Undefined**: 3D printing, Lost-wax casting, Suction filtration
 
