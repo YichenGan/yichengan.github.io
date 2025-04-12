@@ -28,6 +28,6 @@ With my master's background in materials and chemical engineering, I am committe
 - **Programming**: Python, R, Java, Matlab
 
 ## Education
-- Currently Ph.D. student in Materials Science and Engineering, [Stony Brook University](https://www.stonybrook.edu/)
-- 2023 M.E. in Materials Science and Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) 
-- 2021 B.E. in Materials Science and Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) 
+- Currently Ph.D. student in Materials Science and Engineering, [Stony Brook University](https://www.stonybrook.edu/), New York, USA
+- 2023 M.E. in Materials Science and Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Guangdong, PRC
+- 2021 B.E. in Materials Science and Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Guangdong, PRC
