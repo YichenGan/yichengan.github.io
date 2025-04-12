@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome :)"
+title: "Welcome 你好 :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Duyi (doo·ee), but you can also call me Julie! I’m a Master’s student in Applied Statistics with an economics background. My research focuses on workplace discrimination, bias in machine learning, and closing gender data gaps—basically, all the cool ways data can help fight systemic discrimination!
+At Brookhaven National Laboratory, my focus is on pushing the boundaries of materials science through pioneering tomography and electrochemical characterization techniques. This work directly aligns with my Ph.D. studies at Stony Brook University, where I immerse myself in the intricacies of materials science and engineering.
 
-I’m now super passionate about using data science to push for inclusive sex education, women’s rights, and LGBTQIA+ equality. Right now, I’m diving into natural language processing to study how gender stereotypes show up in language.
-
-When I’m not buried in code or data, you can find me at movie theaters, museums, or parks! Fun fact: I’m also the proud mom of 10 beautiful plants!
+With my master's background in materials and chemical engineering, I am committed to advancing smart, energy-efficient materials. My contributions in electrochemistry are not just academic pursuits; they are steps toward a more sustainable future, reflecting my dedication to real-world impact.
 
 ## Skills
 - **Programming**: **Python** (Pandas, NumPy, Matplotlib, Seaborn, PyTorch) , **R** (Tidyverse, ggplot), **SQL**, **Stata**
@@ -21,5 +19,6 @@ When I’m not buried in code or data, you can find me at movie theaters, museum
 
 
 ## Education
-- **M.S. in Applied Statistics**, [New York University](https://steinhardt.nyu.edu/degree/ms-applied-statistics-social-science-research) (*May 2025*)  
-- **B.S. in Economics**, [Institute for Economic and Social Research](https://iesr.jnu.edu.cn/Home/main.htm), Jinan University (*May 2023*)
+- **At present Ph.D. student in Materials Science and Engineering**, [Stony Brook University](https://stonybrrok.edu/)
+- **2023 B.E. in Materials Science and Engineering**, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)
+- **2021 B.E. in Materials Science and Engineering**, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)
