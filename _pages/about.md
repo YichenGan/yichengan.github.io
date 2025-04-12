@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage - Welcome 你好 :)"
+title: "Welcome 你好 :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
