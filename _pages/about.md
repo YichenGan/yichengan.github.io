@@ -19,6 +19,6 @@ With my master's background in materials and chemical engineering, I am committe
 
 
 ## Education
-- **At present Ph.D. student in Materials Science and Engineering**, [Stony Brook University](https://www.stonybrook.edu/)
+- **Currently Ph.D. student in Materials Science and Engineering**, [Stony Brook University](https://www.stonybrook.edu/)
 - **2023 B.E. in Materials Science and Engineering**, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)
 - **2021 B.E. in Materials Science and Engineering**, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)
